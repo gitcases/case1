@@ -1,0 +1,9 @@
+{
+    "name": "drupol/phptree",
+    "type": "library",
+    "description": "An implementation of tree data structure",
+    "keywords": [
+        "tree",
+        "php"
+    ]
+}
