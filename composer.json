@@ -1,0 +1,26 @@
+{
+    "name": "drupol/phptree",
+    "type": "library",
+    "description": "An implementation of tree data structure",
+    "keywords": [
+        "tree",
+        "php"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pol Dellaiera",
+            "email": "pol.dellaiera@protonmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "require-dev": {
+        "apigen/apigen": "dev-master",
+        "drupol/php-conventions": "^1",
+        "graphp/graphviz": "^0.2",
+        "roave/better-reflection": "dev-master#c87d856",
+        "scrutinizer/ocular": "^1"
+    }
+}
