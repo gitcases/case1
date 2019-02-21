@@ -1,0 +1,16 @@
+{
+    "name": "drupol/phptree",
+    "type": "library",
+    "description": "An implementation of tree data structure",
+    "keywords": [
+        "tree",
+        "php"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pol Dellaiera",
+            "email": "pol.dellaiera@protonmail.com"
+        }
+    ]
+}
